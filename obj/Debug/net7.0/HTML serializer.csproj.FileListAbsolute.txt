@@ -1,0 +1,16 @@
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\HTML serializer.exe
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\JsonFiles\HtmlTags.json
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\JsonFiles\HtmlVoidTags.json
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\HTML serializer.deps.json
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\HTML serializer.runtimeconfig.json
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\HTML serializer.dll
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\bin\Debug\net7.0\HTML serializer.pdb
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.AssemblyInfoInputs.cache
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.AssemblyInfo.cs
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.dll
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\refint\HTML serializer.dll
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.pdb
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\HTML serializer.genruntimeconfig.cache
+C:\Users\micha\Downloads\HTML-Serializer-master\HTML-Serializer-master\HTML serializer\obj\Debug\net7.0\ref\HTML serializer.dll

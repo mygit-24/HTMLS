@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DmUboxResjDgo2PrnC4mJG9OwOuYDsXuVST5CoVF2y0aWiJyli9rBdpZZfA9VvCrUsU6e9mkSTOVINkbbH9Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Downloads\\HTML-Serializer-master\\HTML-Serializer-master\\HTML serializer\\HTML serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
